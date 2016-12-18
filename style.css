@@ -1,0 +1,22 @@
+.div1 ,  .div2 , .div3{ 
+  background-color:grey;
+border:2px solid black;    
+box-sizing:border-box;
+}
+div.container{ margin-top:199px; width:100%;
+}
+
+section{     border-left: 1px solid black; 
+padding:5px; height:2em; width:5em; 
+   font-size:21px;  font-weight:bold; float:right; font-family:Comic Sans MS;
+border-bottom:1px solid black; text-align:center;
+}
+#chickenhead{background-color:pink; }
+#beefhead{background-color:red; color:white;}
+#sushihead{ background-color:yellow }
+
+.para1 , .para2, .para3{
+font-family:Comic Sans MS; font-weight:bold; 
+text-align:left; clear:right; padding-right:20px; padding-bottom:10px; font-size:18px; padding-left:20px;
+ padding-top:3px;
+ 
